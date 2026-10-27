@@ -17,7 +17,7 @@ Description:<br>
 •	Switch0 is connected to Router0 on FastEthernet0/0.<br>
 •	The router acts as a DHCP server for the connected LAN.<br>
 
-<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/9f6d645f-2588-4ab8-acd4-221067d297c0" />
+<img width="959" height="501" alt="image" src="https://github.com/user-attachments/assets/6dbe69b6-281a-4869-85e3-0530017a7a8a" />
 
 ________________________________________
 # IP Addressing Table
@@ -63,27 +63,27 @@ Router(dhcp-config)# default-router 192.168.50.1<br>
 Router(dhcp-config)# dns-server 8.8.8.8<br>
 Router(dhcp-config)# exit<br>
 
-<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/2ed7cb89-f3bb-4f44-805f-06aa1252e7cb" />
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/71cc181d-5c50-4c9e-9c80-106d48868d91" />
 
 
 ________________________________________
 # Output (Screenshots)
 •	DHCP IP configuration shown in PC0 and PC1<br>
 
-<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/89a91ee4-27e3-4393-baa7-fa3eb5797a16" />
+<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/605e63be-82db-4ff3-ab43-0e75864ec66f" />
 
 
-<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/ed762923-216c-4de2-85f2-7de5e94971a8" />
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/8adab3db-6ae2-4072-b58d-bdd4d67e5db7" />
 
 
 •	Router configuration screen<br>
 
-<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/4c1e9e82-6396-4798-a5dd-7626f2cf534d" />
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/332962e7-d2a8-4da4-bcea-bd70952bf85b" />
 
 
 •	Successful ping test between the two PCs<br>
 
-<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/abe6e616-87ab-42bb-bc80-a6c87f17594f" />
+<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/dffdea37-9f7a-4235-8fd4-76991ead8cc9" />
 
 ________________________________________
 # Result
